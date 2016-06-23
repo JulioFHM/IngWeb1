@@ -1,0 +1,29 @@
+commit 519ffd0a21e3742d8e9d86fd2f31bcb6172ebf12
+Author: YO <juliofhm@hotmail.com>
+Date:   Thu Jun 23 11:32:28 2016 -0600
+
+    Reggie is ready
+
+commit bc283c416cad15c2b5761b43c39e8b9bf4c9f1a1
+Author: YO <juliofhm@hotmail.com>
+Date:   Thu Jun 23 11:27:38 2016 -0600
+
+    Reggie Img
+
+commit b66faa0dda9edde1745bb73cb1b17f45c2dfd356
+Author: YO <juliofhm@hotmail.com>
+Date:   Thu Jun 23 11:15:58 2016 -0600
+
+    Reggie BS
+
+commit 716fc97abbc400c09b2aeec787056777126863ce
+Author: YO <juliofhm@hotmail.com>
+Date:   Thu Jun 23 11:09:29 2016 -0600
+
+    Reggie
+
+commit d913a896f2a257d091f1b84de6833b9244687d7f
+Author: YO <juliofhm@hotmail.com>
+Date:   Thu Jun 23 11:03:18 2016 -0600
+
+    mensaje
